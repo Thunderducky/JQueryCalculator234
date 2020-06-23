@@ -1,6 +1,6 @@
 # JQueryCalc
 
-This Repo is a template!
+This repo is the Jquery Calculator Excercise
 
 ### Steps
 1. Make sure you make a copy of the template and then clone the copy
