@@ -78,6 +78,9 @@
 $(document).ready(function() {
 
 // Your code here...
+$(".number").on("click", function(){
+  console.log($(this).text());
+})
   $("#button-clear").click(function() {
     alert("You clicked the clear button!");
   })
