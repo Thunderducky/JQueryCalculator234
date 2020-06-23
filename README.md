@@ -1,6 +1,6 @@
 # JQueryCalc
 
-This Repo is a template!
+This Repo is awesome!!!!
 
 ### Steps
 1. Make sure you make a copy of the template and then clone the copy
